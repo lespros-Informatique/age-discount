@@ -1,0 +1,17 @@
+{
+    "name": "camara/age-discoun",
+    "description": "Un programme de réduction en fonction de l'âge",
+    "type": "librairy",
+    "license": "1.0",
+    "autoload": {
+        "psr-4": {
+            "Camara\\AgeDiscoun\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "camara Georges"
+        }
+    ],
+    "require": {}
+}
