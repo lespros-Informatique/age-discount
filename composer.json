@@ -2,7 +2,7 @@
     "name": "lespros-informatique/age-discoun",
     "description": "Un programme de réduction en fonction de l'âge",
     "type": "librairy",
-    "license": "1.0",
+    "license": "proprietary",
     "autoload": {
         "psr-4": {
             "Camara\\AgeDiscoun\\": "src/"
